@@ -1,0 +1,12 @@
+D:\Arina\Институт\3 курс\Планировщик\Scheduler\Scheduler\bin\Debug\Scheduler.exe.config
+D:\Arina\Институт\3 курс\Планировщик\Scheduler\Scheduler\bin\Debug\Scheduler.exe
+D:\Arina\Институт\3 курс\Планировщик\Scheduler\Scheduler\bin\Debug\Scheduler.pdb
+D:\Arina\Институт\3 курс\Планировщик\Scheduler\Scheduler\obj\Debug\Scheduler.csprojAssemblyReference.cache
+D:\Arina\Институт\3 курс\Планировщик\Scheduler\Scheduler\obj\Debug\Scheduler.AddTaskForm.resources
+D:\Arina\Институт\3 курс\Планировщик\Scheduler\Scheduler\obj\Debug\Scheduler.MainForm.resources
+D:\Arina\Институт\3 курс\Планировщик\Scheduler\Scheduler\obj\Debug\Scheduler.Properties.Resources.resources
+D:\Arina\Институт\3 курс\Планировщик\Scheduler\Scheduler\obj\Debug\Scheduler.csproj.GenerateResource.cache
+D:\Arina\Институт\3 курс\Планировщик\Scheduler\Scheduler\obj\Debug\Scheduler.csproj.CoreCompileInputs.cache
+D:\Arina\Институт\3 курс\Планировщик\Scheduler\Scheduler\obj\Debug\Scheduler.exe
+D:\Arina\Институт\3 курс\Планировщик\Scheduler\Scheduler\obj\Debug\Scheduler.pdb
+D:\Arina\Институт\3 курс\Планировщик\Scheduler\Scheduler\obj\Debug\Scheduler.RedTaskForm.resources
